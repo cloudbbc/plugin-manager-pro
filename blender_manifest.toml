@@ -1,0 +1,16 @@
+
+schema_version = "1.0.0"
+
+id = "plugin_manager_pro"
+version = "5.2.0"
+name = "Plugin Manager Pro (4.5+)"
+tagline = "Advanced plugin manager and startup control"
+maintainer = "terryye"
+type = "add-on"
+
+blender_version_min = "4.5.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
+
+[permissions]
+files = "Save and load plugin configuration files"
